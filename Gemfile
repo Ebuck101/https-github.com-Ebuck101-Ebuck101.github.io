@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
 gemspec
-gem --version
+alembic-jekyll-theme
 gem update --system
